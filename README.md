@@ -14,7 +14,7 @@ For our final project we decided to look at Fire Incident data for Connecticut i
 We used the standard imports: Numpy, Pandas, Matplotlib, Seaborn, Datetime, as well as the Scikit Learn regression tool. 
 
 ## Data Cleaning
-We deleted columns we considered irrelavent for our study. Then, we created new columns that allowed us to analysis the data in a meaningful way. 
+We deleted columns we considered irrelavent for our study. Then, we created new columns that allowed us to analysis the data in a meaningful way. We also reordered the columns and set the column index.
 
 
 ## Data Analysis
@@ -22,3 +22,8 @@ We began with statistical plots on all the data in the dataset to get a better u
 
 ## Conclusion
 We were able to answer most of the questions we hoped to at the beginning of the study. It would be interesting to look at other yearly data for Connecticut to test our results across different years. Also if we had a way of differencing the fire departments in each town and the type of fire department, it would be nice to compare performance across the fire departments.
+
+## Useful links
+Dataset:  https://data.ct.gov/Public-Safety/Connecticut-Fire-Department-Incidents-2014/axrk-twst
+NFPA 1710 Alarm Time Requirements:http://purvispublicsafety.com/2014/10/18/nfpa-1710-response-times/
+DataCamp structuring a Losgistic Regression model: https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
