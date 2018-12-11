@@ -25,5 +25,5 @@ We were able to answer most of the questions we hoped to at the beginning of the
 
 ## Useful links
 Dataset:  https://data.ct.gov/Public-Safety/Connecticut-Fire-Department-Incidents-2014/axrk-twst
-NFPA 1710 Alarm Time Requirements:http://purvispublicsafety.com/2014/10/18/nfpa-1710-response-times/
-DataCamp structuring a Losgistic Regression model: https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+NFPA 1710 Alarm Time Requirements : http://purvispublicsafety.com/2014/10/18/nfpa-1710-response-times/
+DataCamp structuring a Losgistic Regression model : https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
